@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- TextView untuk judul laporan -->
+    <TextView
+        android:id="@+id/judulLaporanTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Judul Laporan"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- TextView untuk jumlah iuran perwarga -->
+    <TextView
+        android:id="@+id/jumlahIuranPerwargaTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jumlah Iuran Perwarga: "
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <!-- TextView untuk jumlah iuran bulanan -->
+    <TextView
+        android:id="@+id/jumlahIuranBulananTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jumlah Iuran Bulanan: "
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <!-- TextView untuk total iuran rekap -->
+    <TextView
+        android:id="@+id/totalIuranRekapTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Iuran Rekap: "
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <!-- TextView untuk pengeluaran iuran -->
+    <TextView
+        android:id="@+id/pengeluaranTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pengeluaran Iuran: "
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <!-- TextView untuk pemanfaatan iuran -->
+    <TextView
+        android:id="@+id/pemanfaatanTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pemanfaatan Iuran: "
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <!-- TextView untuk unit rumah -->
+    <TextView
+        android:id="@+id/unitRumahTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unit Rumah: "
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <!-- TextView untuk unit rumah yang sudah membayar kas -->
+    <TextView
+        android:id="@+id/unitRumahKasDoneTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unit Rumah Sudah Bayar Kas: "
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

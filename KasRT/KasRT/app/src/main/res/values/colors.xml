@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Biru Muda -->
+    <color name="light_blue">#ADD8E6</color>
+
+    <!-- Cream -->
+    <color name="cream">#FFFDD0</color>
+
+    <!-- Ungu Muda -->
+    <color name="light_purple">#E6E6FA</color>
+
+    <!-- Pink Muda -->
+    <color name="light_pink">#FFB6C1</color>
+</resources>
