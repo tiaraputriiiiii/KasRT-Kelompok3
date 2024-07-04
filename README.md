@@ -78,6 +78,6 @@ implementation("androidx.core:core-ktx:1.9.0")
 
 Dokumentasi Tambahan:
 - YouTube: https://youtu.be/g3NhnBl7EXo?si=CR_xhghlBfHl5ujt
-- PDF: Tautan ke Dokumen PDF
+- PDF: https://drive.google.com/file/d/1-PjlJX-oJi2s2wD20hA4mgkkkiBLPpNW/view?usp=sharing
 
 # Terima Kasih
