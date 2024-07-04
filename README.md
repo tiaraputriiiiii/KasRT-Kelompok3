@@ -77,7 +77,7 @@ implementation("androidx.core:core-ktx:1.9.0")
 ```
 
 Dokumentasi Tambahan:
-- YouTube: Tautan ke Video YouTube
+- YouTube: https://youtu.be/g3NhnBl7EXo?si=CR_xhghlBfHl5ujt
 - PDF: Tautan ke Dokumen PDF
 
 # Terima Kasih
